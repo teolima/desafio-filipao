@@ -7,7 +7,6 @@ const mensagem = "O Herói de nome " + nomeHeroi + " Esta no nível de "
 for (let i = 0; i <= 5; i++) {
    
     let pontosGanhos = i + 3
-    console.log( i + "+ " + 2 + " = " + pontosGanhos)
     xpExperiencia *=  pontosGanhos
    
     
